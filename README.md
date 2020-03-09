@@ -1,2 +1,0 @@
-# FlipCardGame
-Created with CodeSandbox
