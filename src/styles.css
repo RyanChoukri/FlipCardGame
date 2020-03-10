@@ -1,7 +1,9 @@
 body {
   background-color: #661414;
   color: white;
-  width: 400px;
+  width: 391px;
+  margin: 0px;
+  padding: 0px;
 }
 
 .App {
