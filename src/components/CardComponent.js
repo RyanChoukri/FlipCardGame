@@ -28,7 +28,7 @@ class CardComponent extends React.Component {
             onClick={handleChange.bind(null, id)}
             className="cardee"
             style={{
-              boxShadow: "2px 3px 10px #0000005c",
+              boxShadow: "rgba(0, 0, 0, 0.46) 4px 6px 10px",
               borderRadius: "5px",
               backgroundColor: "#41669d"
             }}
@@ -41,7 +41,7 @@ class CardComponent extends React.Component {
           </FrontSide>
           <BackSide
             style={{
-              boxShadow: "2px 3px 10px #0000005c",
+              boxShadow: "rgba(0, 0, 0, 0.46) 4px 6px 10px",
               borderRadius: "5px",
               backgroundColor: win ? "#bfad11" : "#175852"
             }}
