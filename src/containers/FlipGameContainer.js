@@ -105,7 +105,7 @@ const FlipGameContainers = ({ cards }) => {
           gameTurn: state.gameTurn === 1 ? 2 : 1,
           onAnimation: false
         });
-      }, 450);
+      }, 650);
     }
   };
 
